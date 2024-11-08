@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-31T09:38:30 EDT" name="Surefire suite" finished-at="2024-10-31T09:38:35 EDT" duration-ms="4286">
+    <groups>
+    </groups>
+    <test started-at="2024-10-31T09:38:30 EDT" name="Surefire test" finished-at="2024-10-31T09:38:35 EDT" duration-ms="4286">
+      <class name="com.ramkrishna.restapitests.TestAPIDemo">
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:30 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:31 EDT" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="createBookingTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:31 EDT" name="createBookingTest" finished-at="2024-10-31T09:38:32 EDT" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookingTest -->
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:32 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:32 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="deleteBookingTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:32 EDT" name="deleteBookingTest" finished-at="2024-10-31T09:38:33 EDT" duration-ms="1085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBookingTest -->
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:33 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:33 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="getBookingByIdsTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:33 EDT" name="getBookingByIdsTest" finished-at="2024-10-31T09:38:33 EDT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingByIdsTest -->
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:33 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:33 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="getBookingIdsTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:33 EDT" name="getBookingIdsTest" finished-at="2024-10-31T09:38:34 EDT" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingIdsTest -->
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:34 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:34 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="partialUpdateBookingTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:34 EDT" name="partialUpdateBookingTest" finished-at="2024-10-31T09:38:34 EDT" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialUpdateBookingTest -->
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:34 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:34 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="pingTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:34 EDT" name="pingTest" finished-at="2024-10-31T09:38:34 EDT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pingTest -->
+        <test-method is-config="true" signature="specificationSetup()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:34 EDT" name="specificationSetup" finished-at="2024-10-31T09:38:34 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationSetup -->
+        <test-method signature="updateBookingTest()[pri:0, instance:com.ramkrishna.restapitests.TestAPIDemo@1677d1]" started-at="2024-10-31T09:38:34 EDT" name="updateBookingTest" finished-at="2024-10-31T09:38:35 EDT" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookingTest -->
+      </class> <!-- com.ramkrishna.restapitests.TestAPIDemo -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
